@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p float="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmittal15&theme=merko&lang_count=10" width="300" />
-<img align="right"src="https://github-readme-stats.vercel.app/api?username=abhishekmittal15&show_icons=true&theme=merko&count_private=true" width="500"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmittal15&theme=merko&langs_count=10" width="300" />
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=abhishekmittal15&show_icons=true&theme=merko&count_private=true" width="500"/>
 </p>
 <!--
 **abhishekmittal15/abhishekmittal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
